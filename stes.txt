@@ -1,0 +1,6 @@
+ git init : Initialized empty Git repository in Diractueri.
+git status see commitded files
+git add file.ex : commit file.ex
+git add . : commit a the files
+git commit -m "Messages" : commite thsis point,
+git log : to see what commit you did
