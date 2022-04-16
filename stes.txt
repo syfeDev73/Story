@@ -4,3 +4,6 @@ git add file.ex : commit file.ex
 git add . : commit a the files
 git commit -m "Messages" : commite thsis point,
 git log : to see what commit you did
+git diff filename.ex : to spot the differnce  btween the old and the new files 
+git checkout filename.ex; To retoen to the last commite point 
+git remote add orgin <URL.git> (orgine : name of the remote)
